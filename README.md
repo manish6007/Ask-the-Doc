@@ -48,5 +48,8 @@ Note: Make sure to handle the API key securely, as it is currently being entered
 
 This application can be customized and extended to meet specific requirements by modifying the code as needed.
 
+Use below URL to access app:<br>
+https://askthedoc6007.streamlit.app/
+
 <img width="398" alt="image" src="https://github.com/manish6007/Ask-the-Doc/assets/41223158/7e965cbc-2777-4740-a805-3d6c0cc61474">
 
